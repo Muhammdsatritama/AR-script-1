@@ -1,1 +1,2 @@
-# AR-script
+# AR-script 
+Ngebot tanpa ngoding:)
